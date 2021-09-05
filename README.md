@@ -1,2 +1,13 @@
 # vimrc
-Blaine's current .vimrc file for his Macbook Pro
+Blaine's current .vimrc file for his Macbook Pro.
+
+This vimrc file is for my current VIM setup: VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Aug 15 2021 13:04:41). 
+I am using a version compiled with home brew.
+I am using the Vim-Plug manager after several years of using Vundle.
+
+I use Vim-Plug because it also runs on neovim.
+The same plugin often works in both editors, but that is changing as the two editors diverge.
+
+My main uses of Vim are for editing LaTeX files and script files, including the use of snippets for both.
+I also often have to edit scripts on remote machines and vim is very useful for this task.
+However, my local version of Vim is often ahead of the versions on the remote computers, hence the need to form a new repo.
